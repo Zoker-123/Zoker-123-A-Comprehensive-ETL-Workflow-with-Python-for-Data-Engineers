@@ -24,23 +24,16 @@ After extracting, the project folder will contain CSV, JSON, and XML files for p
 -> Step 1: Gather Data Files
 
 * Download the dataset using the wget command.
-
 * Unzip the dataset to access the CSV, JSON, and XML files.
 
 -> Step 2: Import Libraries and Set Paths
 
 * Import necessary libraries:
-
 * glob for file handling.
-
 * pandas for working with CSV and JSON files.
-
 * xml.etree.ElementTree for parsing XML files.
-
 * datetime for logging timestamps.
-
 * Install pandas if it's not already installed.
-
 * Set paths for log files and the final transformed data CSV file.
 
 -> Step 3: Define Functions for ETL
