@@ -1,0 +1,70 @@
+[2024-12-21 18:54:15] ETL process started
+[2024-12-21 18:54:15] Starting data extraction phase
+Extract phase started
+Extract phase ended with 0 records
+Extract phase started
+Extract phase ended with 0 records
+Extract phase started
+Extract phase ended with 428224 records
+Extract phase Started
+Extract phase Ended
+Transform phase Started
+Transform phase Ended
+Load phase Started
+Load phase Ended
+Extract phase started
+Extract phase ended with 856448 records
+[2024-12-22 17:57:41] ETL process initiated.
+[2024-12-22 17:57:41] Starting extraction phase.
+[2024-12-22 17:57:41] Extracting data from CSV file: C:\Courses\source\source1.csv
+[2024-12-22 17:57:41] Extracting data from CSV file: C:\Courses\source\source2.csv
+[2024-12-22 17:57:41] Extracting data from CSV file: C:\Courses\source\source3.csv
+[2024-12-22 17:57:41] Extracting data from JSON file: C:\Courses\source\source1.json
+[2024-12-22 18:00:14] ETL process initiated.
+[2024-12-22 18:00:14] Starting extraction phase.
+[2024-12-22 18:00:14] Extracting data from CSV file: C:\Courses\source\source1.csv
+[2024-12-22 18:00:14] Extracting data from CSV file: C:\Courses\source\source2.csv
+[2024-12-22 18:00:14] Extracting data from CSV file: C:\Courses\source\source3.csv
+[2024-12-22 18:00:14] Extracting data from JSON file: C:\Courses\source\source1.json
+[2024-12-22 18:00:14] Error reading JSON file: C:\Courses\source\source1.json. Attempting to parse line by line.
+[2024-12-22 18:00:14] Extracting data from JSON file: C:\Courses\source\source2.json
+[2024-12-22 18:00:14] Error reading JSON file: C:\Courses\source\source2.json. Attempting to parse line by line.
+[2024-12-22 18:00:14] Extracting data from JSON file: C:\Courses\source\source3.json
+[2024-12-22 18:00:14] Error reading JSON file: C:\Courses\source\source3.json. Attempting to parse line by line.
+[2024-12-22 18:00:14] Extracting data from XML file: C:\Courses\source\source1.xml
+[2024-12-22 18:00:14] Extracting data from XML file: C:\Courses\source\source2.xml
+[2024-12-22 18:00:14] Extracting data from XML file: C:\Courses\source\source3.xml
+[2024-12-22 18:00:14] Extraction phase completed.
+[2024-12-22 18:00:14] Starting transformation phase.
+[2024-12-22 18:00:14] Transformation phase completed.
+[2024-12-22 18:00:14] Starting loading phase.
+[2024-12-22 18:00:14] Data successfully loaded into transformed_data.csv.
+[2024-12-22 18:00:14] ETL process completed.
+[2024-12-22 18:00:24] ETL process initiated.
+[2024-12-22 18:00:24] Starting extraction phase.
+[2024-12-22 18:00:24] Extracting data from CSV file: C:\Courses\source\source1.csv
+[2024-12-22 18:00:24] Extracting data from CSV file: C:\Courses\source\source2.csv
+[2024-12-22 18:00:24] Extracting data from CSV file: C:\Courses\source\source3.csv
+[2024-12-22 18:00:24] Extracting data from JSON file: C:\Courses\source\source1.json
+[2024-12-22 18:00:24] Error reading JSON file: C:\Courses\source\source1.json. Attempting to parse line by line.
+[2024-12-22 18:00:24] Extracting data from JSON file: C:\Courses\source\source2.json
+[2024-12-22 18:00:24] Error reading JSON file: C:\Courses\source\source2.json. Attempting to parse line by line.
+[2024-12-22 18:00:24] Extracting data from JSON file: C:\Courses\source\source3.json
+[2024-12-22 18:00:24] Error reading JSON file: C:\Courses\source\source3.json. Attempting to parse line by line.
+[2024-12-22 18:00:24] Extracting data from XML file: C:\Courses\source\source1.xml
+[2024-12-22 18:00:24] Extracting data from XML file: C:\Courses\source\source2.xml
+[2024-12-22 18:00:24] Extracting data from XML file: C:\Courses\source\source3.xml
+[2024-12-22 18:00:24] Extraction phase completed.
+[2024-12-22 18:00:24] Starting transformation phase.
+[2024-12-22 18:00:24] Transformation phase completed.
+[2024-12-22 18:00:24] Starting loading phase.
+[2024-12-22 18:00:24] Data successfully loaded into transformed_data.csv.
+[2024-12-22 18:00:24] ETL process completed.
+Extract phase started
+Extract phase ended with 428251 records
+Extract phase started
+Extract phase ended with 428251 records
+Transform phase Started
+Transform phase Ended
+Load phase Started
+Load phase Ended
